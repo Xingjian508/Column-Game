@@ -1,2 +1,2 @@
 # Column-Game
-This is a column game with the correct backend logic but a terrible user interface.
+This is a column game with the correct, very solid backend logic but a user interface that could be later improved.
